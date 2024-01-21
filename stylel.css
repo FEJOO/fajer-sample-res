@@ -1,0 +1,49 @@
+
+hr{
+    height: 5px;
+    background: rgba(137, 137, 137, 0.355);
+    width: 50%;
+    border-radius: 100px;
+    margin: 40px 0px;
+    
+}
+
+
+html{
+    background: rgb(68, 206, 237);
+    
+}
+
+
+
+a{
+    color: rgb(32, 78, 215);
+    text-decoration: none; 
+    margin-left: 30px;
+}
+
+
+a:hover{
+    color: azure;
+    cursor: pointer;
+}
+
+img{
+    border-radius: 5px;
+    width: 120px;
+    height: 150px;
+
+
+}
+
+#cen{
+    font-size: 2.5rem;
+}
+
+.title{
+    font-size: 2rem;
+}
+
+.content{
+    font-size: 1.2rem;
+}
